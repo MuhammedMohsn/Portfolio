@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b15ea9c.css",
-    "main.js": "/Portfolio/static/js/main.76e2ed63.js",
+    "main.js": "/Portfolio/static/js/main.88a5f36b.js",
     "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Movies.png": "/Portfolio/static/media/Movies.9e92fa72cd35c7f3f1aa.png",
     "static/media/Coffee.png": "/Portfolio/static/media/Coffee.1c8ceac1f121836cd984.png",
@@ -16,8 +16,8 @@
     "static/media/Wikipedia.png": "/Portfolio/static/media/Wikipedia.5344f83af3478d2241bc.png",
     "static/media/Birthdays.png": "/Portfolio/static/media/Birthdays.44c59abadac9eb40debf.png",
     "static/media/Image_API.png": "/Portfolio/static/media/Image_API.f87240eab348b0192886.png",
-    "static/media/CV.pdf": "/Portfolio/static/media/CV.4f8b622d08128394a778.pdf",
     "static/media/Dashboard.png": "/Portfolio/static/media/Dashboard.63163d9490c729c9a712.png",
+    "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .e9747ea81c8d2be6d3bc.pdf",
     "static/media/Storefront_API.png": "/Portfolio/static/media/Storefront_API.b82303121949aa4ee964.png",
     "static/media/CRUD.png": "/Portfolio/static/media/CRUD.f27136d5bfdec675f2d1.png",
     "static/media/Clocks.png": "/Portfolio/static/media/Clocks.8fc3e88b4db1a47ea6d5.png",
@@ -25,11 +25,11 @@
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.1b15ea9c.css.map": "/Portfolio/static/css/main.1b15ea9c.css.map",
-    "main.76e2ed63.js.map": "/Portfolio/static/js/main.76e2ed63.js.map",
+    "main.88a5f36b.js.map": "/Portfolio/static/js/main.88a5f36b.js.map",
     "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b15ea9c.css",
-    "static/js/main.76e2ed63.js"
+    "static/js/main.88a5f36b.js"
   ]
 }
