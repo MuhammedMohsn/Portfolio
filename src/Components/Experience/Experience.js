@@ -124,6 +124,13 @@ function Experience() {
               <article className="experience_details">
                 <HiOutlineBadgeCheck className="experience_details_icon" />
                 <div>
+                  <h3>Rest API</h3>
+                  <small className="text-light">Experienced</small>
+                </div>
+              </article>
+              <article className="experience_details">
+                <HiOutlineBadgeCheck className="experience_details_icon" />
+                <div>
                   <h3>GraphQL</h3>
                   <small className="text-light">Experienced</small>
                 </div>
