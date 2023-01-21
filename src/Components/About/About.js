@@ -4,8 +4,6 @@ import me from '../../assets/me.png'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolder } from 'react-icons/vsc'
-import { Link } from "react-router-dom";
-
 function About() {
   return (
     <Fragment>
