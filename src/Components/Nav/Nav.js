@@ -41,15 +41,6 @@ function Nav() {
           <AiFillBook />
         </a>
         <a
-          href="#services"
-          onClick={() => {
-            setActive("#services");
-          }}
-          className={active === "#services" ? "active" : ""}
-        >
-          <FcServices />
-        </a>
-        <a
           href="#contact"
           onClick={() => {
             setActive("#contact");

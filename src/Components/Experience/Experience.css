@@ -1,3 +1,9 @@
+#experience{
+  height: fit-content;
+  margin-bottom: 20px;
+}
+
+
 .experience_container{
     display: grid;
     grid-template-columns: 1fr 1fr ;
