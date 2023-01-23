@@ -18,6 +18,11 @@ import img15 from "../../assets/Booth.png";
 import img16 from "../../assets/Birthdays.png";
 import img17 from '../../assets/Image_API.png'
 import img18 from '../../assets/Storefront_API.png'
+import img19 from '../../assets/Books_db.png'
+import img20 from '../../assets/W.png'
+import img21 from '../../assets/Pargraphs_generator.png'
+import img22 from '../../assets/Products.png'
+import img23 from '../../assets/To_do.png'
 
 function Portfolio() {
   let data = [
@@ -147,6 +152,41 @@ function Portfolio() {
       github: "https://github.com/MuhammedMohsn/StoreFront_API",
       demo: "https://drive.google.com/file/d/1qm166nSc81cm1GOZc_8Wr8Q37pMhEAXF/view?usp=sharing",
     },
+      {
+        id: 19,
+        image: img19,
+        title: "Books_DB",
+        github: "https://github.com/MuhammedMohsn/Books_db",
+        demo: "https://drive.google.com/file/d/1Gj6-FugajxQmkDZi2UKCYUfG92QnZXX1/view?usp=sharing",
+      },
+      {
+        id: 20,
+        image: img20,
+        title: "Weather_app",
+        github: "https://github.com/MuhammedMohsn/Weather-app",
+        demo: "https://drive.google.com/file/d/1LAr1gN9Fi-seUNZ70sm7qN6kRs66GsCU/view?usp=sharing",
+      },
+      {
+        id: 21,
+        image: img21,
+        title: "Pargraphs_generator",
+        github: "https://github.com/MuhammedMohsn/Pagraphs-generator",
+        demo: "https://muhammedmohsn.github.io/Pagraphs-generator/",
+      },
+      {
+        id: 22,
+        image: img22,
+        title: "Products",
+        github: "https://github.com/MuhammedMohsn/Products",
+        demo: "https://muhammedmohsn.github.io/Products/",
+      },
+      {
+        id: 23,
+        image: img23,
+        title: "To-do list ",
+        github: "https://github.com/MuhammedMohsn/To-do-list",
+        demo: "https://muhammedmohsn.github.io/To-do-list/",
+      }
   ];
   return (
     <Fragment>

@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import './About.css'
-import me from '../../assets/me.png'
+import me from '../../assets/me.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolder } from 'react-icons/vsc'
