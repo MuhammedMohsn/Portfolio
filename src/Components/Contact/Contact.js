@@ -9,7 +9,7 @@ function Contact() {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_6y1nocb', 'template_r10ykmq', form.current, 'vI4JdS8AkYkpsxEt6')
+    emailjs.sendForm('service_ydjbcfn', 'template_rl0ykmq', form.current, 'vI4JdS8AkYkpsxEt6')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
@@ -43,7 +43,7 @@ function Contact() {
 
           <article className="contact_option">
             <BsWhatsapp className="contact_option_icon"/>
-            <h3>Whatsup</h3>
+            <h3>Whatsapp</h3>
             <h4>+201125752389</h4>
             <a
               href="https://web.whatsapp.com/send?phone+201125752389"
