@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b15ea9c.css",
-    "main.js": "/Portfolio/static/js/main.0bcd32b7.js",
+    "main.js": "/Portfolio/static/js/main.1b6dd9de.js",
     "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Movies.png": "/Portfolio/static/media/Movies.9e92fa72cd35c7f3f1aa.png",
     "static/media/Coffee.png": "/Portfolio/static/media/Coffee.1c8ceac1f121836cd984.png",
@@ -18,7 +18,7 @@
     "static/media/Birthdays.png": "/Portfolio/static/media/Birthdays.44c59abadac9eb40debf.png",
     "static/media/Image_API.png": "/Portfolio/static/media/Image_API.f87240eab348b0192886.png",
     "static/media/Dashboard.png": "/Portfolio/static/media/Dashboard.63163d9490c729c9a712.png",
-    "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .e9747ea81c8d2be6d3bc.pdf",
+    "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .f30deaaa91ca669bc314.pdf",
     "static/media/me.jpg": "/Portfolio/static/media/me.8e765bbee6d2077738ed.jpg",
     "static/media/Pargraphs_generator.png": "/Portfolio/static/media/Pargraphs_generator.18180118182db962bf0f.png",
     "static/media/Storefront_API.png": "/Portfolio/static/media/Storefront_API.b82303121949aa4ee964.png",
@@ -31,11 +31,11 @@
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.1b15ea9c.css.map": "/Portfolio/static/css/main.1b15ea9c.css.map",
-    "main.0bcd32b7.js.map": "/Portfolio/static/js/main.0bcd32b7.js.map",
+    "main.1b6dd9de.js.map": "/Portfolio/static/js/main.1b6dd9de.js.map",
     "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b15ea9c.css",
-    "static/js/main.0bcd32b7.js"
+    "static/js/main.1b6dd9de.js"
   ]
 }
