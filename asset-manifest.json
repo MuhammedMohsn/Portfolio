@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b15ea9c.css",
-    "main.js": "/Portfolio/static/js/main.84e47e34.js",
+    "main.js": "/Portfolio/static/js/main.ee49a092.js",
     "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Movies.png": "/Portfolio/static/media/Movies.9e92fa72cd35c7f3f1aa.png",
     "static/media/Coffee.png": "/Portfolio/static/media/Coffee.1c8ceac1f121836cd984.png",
@@ -10,6 +10,7 @@
     "static/media/Tours.png": "/Portfolio/static/media/Tours.c647f7fbd8a778576906.png",
     "static/media/E-commerce.png": "/Portfolio/static/media/E-commerce.64948e02f3dfe6cffafd.png",
     "static/media/Booth.png": "/Portfolio/static/media/Booth.cd4b4c754471e88adfca.png",
+    "static/media/Products.png": "/Portfolio/static/media/Products.aa655898b78a3a69555f.png",
     "static/media/Safety.png": "/Portfolio/static/media/Safety.763250c1cc7855d4ebe6.png",
     "static/media/Best.png": "/Portfolio/static/media/Best.dd6729ec8fe13213da8e.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.73aa276d6251d0bff677.png",
@@ -18,18 +19,22 @@
     "static/media/Image_API.png": "/Portfolio/static/media/Image_API.f87240eab348b0192886.png",
     "static/media/Dashboard.png": "/Portfolio/static/media/Dashboard.63163d9490c729c9a712.png",
     "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .e9747ea81c8d2be6d3bc.pdf",
+    "static/media/Pargraphs_generator.png": "/Portfolio/static/media/Pargraphs_generator.18180118182db962bf0f.png",
     "static/media/Storefront_API.png": "/Portfolio/static/media/Storefront_API.b82303121949aa4ee964.png",
     "static/media/CRUD.png": "/Portfolio/static/media/CRUD.f27136d5bfdec675f2d1.png",
+    "static/media/Books_db.png": "/Portfolio/static/media/Books_db.d9ec522a59fae2815c4a.png",
     "static/media/Clocks.png": "/Portfolio/static/media/Clocks.8fc3e88b4db1a47ea6d5.png",
+    "static/media/W.png": "/Portfolio/static/media/W.a002467ff0d60d55baf2.png",
+    "static/media/To_do.png": "/Portfolio/static/media/To_do.635b2bb07011566e98a1.png",
     "static/media/Form_Validation.png": "/Portfolio/static/media/Form_Validation.c62ca8131df69f4fdf35.png",
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.1b15ea9c.css.map": "/Portfolio/static/css/main.1b15ea9c.css.map",
-    "main.84e47e34.js.map": "/Portfolio/static/js/main.84e47e34.js.map",
+    "main.ee49a092.js.map": "/Portfolio/static/js/main.ee49a092.js.map",
     "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b15ea9c.css",
-    "static/js/main.84e47e34.js"
+    "static/js/main.ee49a092.js"
   ]
 }
