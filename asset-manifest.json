@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b15ea9c.css",
-    "main.js": "/Portfolio/static/js/main.1b6dd9de.js",
+    "main.js": "/Portfolio/static/js/main.1fbd5e55.js",
     "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Movies.png": "/Portfolio/static/media/Movies.9e92fa72cd35c7f3f1aa.png",
-    "static/media/Coffee.png": "/Portfolio/static/media/Coffee.1c8ceac1f121836cd984.png",
-    "static/media/Groovin.png": "/Portfolio/static/media/Groovin.8756f31024e84a17ae34.png",
-    "static/media/Foods.png": "/Portfolio/static/media/Foods.cec764a27fc270b85d47.png",
-    "static/media/Tours.png": "/Portfolio/static/media/Tours.c647f7fbd8a778576906.png",
-    "static/media/E-commerce.png": "/Portfolio/static/media/E-commerce.64948e02f3dfe6cffafd.png",
-    "static/media/Booth.png": "/Portfolio/static/media/Booth.cd4b4c754471e88adfca.png",
-    "static/media/Products.png": "/Portfolio/static/media/Products.aa655898b78a3a69555f.png",
-    "static/media/Safety.png": "/Portfolio/static/media/Safety.763250c1cc7855d4ebe6.png",
-    "static/media/Best.png": "/Portfolio/static/media/Best.dd6729ec8fe13213da8e.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.73aa276d6251d0bff677.png",
     "static/media/Wikipedia.png": "/Portfolio/static/media/Wikipedia.5344f83af3478d2241bc.png",
+    "static/media/Movies.png": "/Portfolio/static/media/Movies.fb6300b96dedbcf52d6a.png",
+    "static/media/Products.png": "/Portfolio/static/media/Products.8db0180779287c636cf6.png",
     "static/media/Birthdays.png": "/Portfolio/static/media/Birthdays.44c59abadac9eb40debf.png",
     "static/media/Image_API.png": "/Portfolio/static/media/Image_API.f87240eab348b0192886.png",
+    "static/media/Tours.png": "/Portfolio/static/media/Tours.31e3f16b355284d2dfe8.png",
+    "static/media/Foods.png": "/Portfolio/static/media/Foods.531aa2d3bec5f057ce96.png",
+    "static/media/Safety.png": "/Portfolio/static/media/Safety.573e332d48e3d5a8eb68.png",
+    "static/media/Coffee.png": "/Portfolio/static/media/Coffee.0cd327f2a01731e8b153.png",
     "static/media/Dashboard.png": "/Portfolio/static/media/Dashboard.63163d9490c729c9a712.png",
+    "static/media/E-commerce.png": "/Portfolio/static/media/E-commerce.098ee1d84b529aa2da8f.png",
+    "static/media/Groovin.png": "/Portfolio/static/media/Groovin.14849621784a78045c62.png",
     "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .f30deaaa91ca669bc314.pdf",
     "static/media/me.jpg": "/Portfolio/static/media/me.8e765bbee6d2077738ed.jpg",
+    "static/media/Best.png": "/Portfolio/static/media/Best.d419a825ffb689347046.png",
+    "static/media/Booth.png": "/Portfolio/static/media/Booth.25bc94f7ade22f7d3afb.png",
     "static/media/Pargraphs_generator.png": "/Portfolio/static/media/Pargraphs_generator.18180118182db962bf0f.png",
     "static/media/Storefront_API.png": "/Portfolio/static/media/Storefront_API.b82303121949aa4ee964.png",
     "static/media/CRUD.png": "/Portfolio/static/media/CRUD.f27136d5bfdec675f2d1.png",
@@ -31,11 +31,11 @@
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.1b15ea9c.css.map": "/Portfolio/static/css/main.1b15ea9c.css.map",
-    "main.1b6dd9de.js.map": "/Portfolio/static/js/main.1b6dd9de.js.map",
+    "main.1fbd5e55.js.map": "/Portfolio/static/js/main.1fbd5e55.js.map",
     "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b15ea9c.css",
-    "static/js/main.1b6dd9de.js"
+    "static/js/main.1fbd5e55.js"
   ]
 }
