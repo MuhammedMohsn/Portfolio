@@ -6,7 +6,6 @@ import {
   AiFillBook,
   AiFillMessage,
 } from "react-icons/ai";
-import { FcServices } from "react-icons/fc";
 function Nav() {
   let [active, setActive] = useState("#");
 
