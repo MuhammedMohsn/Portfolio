@@ -21,13 +21,8 @@ function About() {
               <a className="about_card" href="#experience">
                 <FaAward className="about_icon" />
                 <h2>experience</h2>
-                <small> Fresh </small>
+                <small> +2 Years </small>
               </a>
-              <article className="about_card">
-                <FiUsers className="about_icon" />
-                <h2>clients</h2>
-                <small> 200+ worldwide </small>
-              </article>
               <a className="about_card" href="#portfolio">
                 <VscFolder className="about_icon" />
                 <h2>projects</h2>
