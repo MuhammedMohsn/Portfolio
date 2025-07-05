@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e6c899aa.css",
-    "main.js": "/Portfolio/static/js/main.8f52c0e0.js",
+    "main.js": "/Portfolio/static/js/main.b3f36b10.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Map.png": "/Portfolio/static/media/Map.fa6ba57ce1621b4fbc41.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.73aa276d6251d0bff677.png",
     "static/media/Wikipedia.png": "/Portfolio/static/media/Wikipedia.5344f83af3478d2241bc.png",
     "static/media/Movies.png": "/Portfolio/static/media/Movies.fb6300b96dedbcf52d6a.png",
     "static/media/Products.png": "/Portfolio/static/media/Products.8db0180779287c636cf6.png",
+    "static/media/dynamic-form.png": "/Portfolio/static/media/dynamic-form.408d4c92b72db881d127.png",
     "static/media/Birthdays.png": "/Portfolio/static/media/Birthdays.44c59abadac9eb40debf.png",
     "static/media/Image_API.png": "/Portfolio/static/media/Image_API.f87240eab348b0192886.png",
     "static/media/Tours.png": "/Portfolio/static/media/Tours.31e3f16b355284d2dfe8.png",
@@ -32,11 +33,11 @@
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.e6c899aa.css.map": "/Portfolio/static/css/main.e6c899aa.css.map",
-    "main.8f52c0e0.js.map": "/Portfolio/static/js/main.8f52c0e0.js.map",
+    "main.b3f36b10.js.map": "/Portfolio/static/js/main.b3f36b10.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c899aa.css",
-    "static/js/main.8f52c0e0.js"
+    "static/js/main.b3f36b10.js"
   ]
 }
