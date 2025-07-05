@@ -24,9 +24,17 @@ import img21 from '../../assets/Pargraphs_generator.png'
 import img22 from '../../assets/Products.png'
 import img23 from '../../assets/To_do.png'
 import img24 from '../../assets/Map.png'
+import img25 from '../../assets/dynamic-form.png'
 
 function Portfolio() {
   let data = [
+      {
+      id: 0,
+      image: img25,
+      title: "Dynamic form",
+      github: "https://github.com/MuhammedMohsn/Dynamic-form",
+      demo: "https://muhammedmohsn.github.io/Dynamic-form/",
+    },
       {
       id: 1,
       image: img24,
