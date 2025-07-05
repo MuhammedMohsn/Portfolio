@@ -215,7 +215,7 @@ function Portfolio() {
             return (
               <article className="portfolio_item" key={id}>
                 <div className="portfolio_item_img">
-                  <img src={image} alt="" />
+                  <img src={image} alt={title} />
                 </div>
                 <h2> {title}</h2>
                 <a href={github} className="btn" target="_blank" rel="noreferrer">
