@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import myCV from "../../assets/Front-end Developer – Muhammed Mohsen CV .pdf";
+import myCV from "../../assets/Front-end-Developer–MuhammedMohsen_CV.pdf";
 function CV() {
   return (
     <Fragment>
