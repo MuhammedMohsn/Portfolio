@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.e6c899aa.css",
-    "main.js": "/Portfolio/static/js/main.4a552495.js",
+    "main.js": "/Portfolio/static/js/main.7f2e57c0.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Map.png": "/Portfolio/static/media/Map.fa6ba57ce1621b4fbc41.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.73aa276d6251d0bff677.png",
+    "static/media/Front-end-Developer–MuhammedMohsen_CV.pdf": "/Portfolio/static/media/Front-end-Developer–MuhammedMohsen_CV.4b95f963c62e73db5b26.pdf",
     "static/media/Wikipedia.png": "/Portfolio/static/media/Wikipedia.5344f83af3478d2241bc.png",
     "static/media/Movies.png": "/Portfolio/static/media/Movies.fb6300b96dedbcf52d6a.png",
     "static/media/Products.png": "/Portfolio/static/media/Products.8db0180779287c636cf6.png",
@@ -18,7 +19,6 @@
     "static/media/Dashboard.png": "/Portfolio/static/media/Dashboard.63163d9490c729c9a712.png",
     "static/media/E-commerce.png": "/Portfolio/static/media/E-commerce.098ee1d84b529aa2da8f.png",
     "static/media/Groovin.png": "/Portfolio/static/media/Groovin.14849621784a78045c62.png",
-    "static/media/Front-end Developer – Muhammed Mohsen CV .pdf": "/Portfolio/static/media/Front-end Developer – Muhammed Mohsen CV .eedf2695eb7ca58862ca.pdf",
     "static/media/me.jpg": "/Portfolio/static/media/me.8e765bbee6d2077738ed.jpg",
     "static/media/Best.png": "/Portfolio/static/media/Best.d419a825ffb689347046.png",
     "static/media/Booth.png": "/Portfolio/static/media/Booth.25bc94f7ade22f7d3afb.png",
@@ -33,11 +33,11 @@
     "static/media/me.png": "/Portfolio/static/media/me.5cfc1d0f84de2468778b.png",
     "index.html": "/Portfolio/index.html",
     "main.e6c899aa.css.map": "/Portfolio/static/css/main.e6c899aa.css.map",
-    "main.4a552495.js.map": "/Portfolio/static/js/main.4a552495.js.map",
+    "main.7f2e57c0.js.map": "/Portfolio/static/js/main.7f2e57c0.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c899aa.css",
-    "static/js/main.4a552495.js"
+    "static/js/main.7f2e57c0.js"
   ]
 }
