@@ -21,7 +21,7 @@ function About() {
               <a className="about_card" href="#experience">
                 <FaAward className="about_icon" />
                 <h2>experience</h2>
-                <small> +2 Years </small>
+                <small> 3 Years </small>
               </a>
               <a className="about_card" href="#portfolio">
                 <VscFolder className="about_icon" />
