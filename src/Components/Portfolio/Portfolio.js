@@ -23,7 +23,7 @@ import img20 from '../../assets/W.png'
 import img21 from '../../assets/Pargraphs_generator.png'
 import img22 from '../../assets/Products.png'
 import img23 from '../../assets/To_do.png'
-import img24 from '../../assets/nearby'
+import img24 from '../../assets/nearby.png'
 import img25 from '../../assets/dynamic-form.png'
 
 function Portfolio() {
