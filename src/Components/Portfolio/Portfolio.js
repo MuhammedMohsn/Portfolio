@@ -23,7 +23,7 @@ import img20 from '../../assets/W.png'
 import img21 from '../../assets/Pargraphs_generator.png'
 import img22 from '../../assets/Products.png'
 import img23 from '../../assets/To_do.png'
-import img24 from '../../assets/Map.png'
+import img24 from '../../assets/nearby'
 import img25 from '../../assets/dynamic-form.png'
 
 function Portfolio() {
@@ -38,9 +38,9 @@ function Portfolio() {
       {
       id: 1,
       image: img24,
-      title: "Tripify map",
-      github: "https://github.com/MuhammedMohsn/ToursMap",
-      demo: "https://muhammedmohsn.github.io/ToursMap/",
+      title: "Nearby",
+      github: "https://github.com/MuhammedMohsn/Nearby",
+      demo: "https://muhammedmohsn.github.io/Nearby/",
     },
     {
       id: 2,
