@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <script>
+      const repo = "/Portfolio";
+
+      const path = window.location.pathname;
+
+      const route = path.startsWith(repo)
+        ? path.substring(repo.length)
+        : path;
+
+      sessionStorage.setItem(
+        "redirect",
+        route + window.location.search + window.location.hash
+      );
+
+      window.location.replace(repo + "/");
+    </script>
+  </head>
+
+  <body></body>
+</html>
